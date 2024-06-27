@@ -74,10 +74,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Create a new Pull Request.
 
 
-## Credit
-
-[Jonas schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) For his online course on Advanced css and Sass
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
